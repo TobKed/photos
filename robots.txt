@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://maolonglong.github.io/hugo-simple-starter/sitemap.xml
+Sitemap: https://photos.tobked.dev/sitemap.xml
